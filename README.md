@@ -1,6 +1,6 @@
 ## Hi There 👋
 
-- 🌱 I’m currently learning JavaScript basics
+- 🌱 I’m currently learning JavaScript basics!!!!
 - ⚡ I am also a professional technical content writer. You can view some of my contents in the portfolio repository. 
 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/pragya-sapkota-83a38a191/)
