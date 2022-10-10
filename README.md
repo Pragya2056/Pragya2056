@@ -20,5 +20,3 @@
 </p>
 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/pragya-sapkota-83a38a191/)
-
-
