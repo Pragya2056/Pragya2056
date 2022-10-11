@@ -18,5 +18,3 @@
 	<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pragya2056&layout=compact" />
 	
 </p>
-
-## Thank You!!!
