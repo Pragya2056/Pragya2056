@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning JavaScript basics!!!!
 - ⚡ I am also a professional technical content writer. You can view some of my contents in my [Portfolio](https://github.com/Pragya2056/Portfolio) repository. 
-- 🔭 If you're interested in the official blog, I have one on Medium as [Pragya Sapkota](https://medium.com/@pragyasapkota). You can click the link and look at my articles. 
+- 🔭 If you're interested in the official blog, I have one on Medium as [Pragya Sapkota](https://medium.com/@pragyasapkota). You can `CTRL+click` the link and look at my articles. 
 
 ## 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/pragya-sapkota-83a38a191/)
 
