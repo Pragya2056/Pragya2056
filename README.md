@@ -20,6 +20,6 @@
 
 ## 📄 Most Language Used
 <p align="left">
-	<img align="left"  width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pragya2056&layout=compact&theme=tokyonight" />
+	<img align="left"  width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pragya2056&layout=compact&theme=tokyonight&line_height=27" />
 	
 </p>
