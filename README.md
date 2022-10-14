@@ -8,10 +8,14 @@
 
 ## 📟 GitHub Stats
 
-<p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Pragya2056&show_icons=true&theme=radical" />
-	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Pragya2056&theme=radical" />
-</p>
+<div align="left">
+<a href="https://github.com/Pragya2056">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pragya2056&show_icons=true&theme=tokyonight&line_height=27" alt="Pragya's github stats"/>
+</a>
+
+<div align="left">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pragya2056&theme=tokyonight" alt="Pragya2056" /></p>
+  </div>
 
 ## 📄 Most Language Used
 <p align="left">
