@@ -23,3 +23,10 @@
 	<img align="left"  width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pragya2056&layout=compact&theme=tokyonight&line_height=27" />
 	
 </p>
+
+<!--## REPO STATUS
+
+![GitHub PR Open](https://img.shields.io/github/issues-pr/1teacher1/Hacktoberfest2022?style=for-the-badge&color=aqua)
+![GitHub PR closed](https://img.shields.io/github/issues-pr-closed-raw/1teacher1/Hacktoberfest2022?style=for-the-badge&color=blue)
+![GitHub language count](https://img.shields.io/github/languages/count/1teacher1/Hacktoberfest2022?style=for-the-badge&color=brightgreen)
+<br><br>-->
