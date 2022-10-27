@@ -10,7 +10,6 @@
 - 💬 Ask me about anything, I am happy😁 to help👯.
 - 📝 Writings: I am also a professional technical content writer. ✍️ You can view some of my contents in my [Portfolio](https://github.com/Pragya2056/Portfolio) repository. And if you're interested in the official blog, I have one on Medium as [Pragya Sapkota](https://medium.com/@pragyasapkota). You can `CTRL+click` the link and look at my articles. 
 - 😄 Nickname: Wight 🙈
-- ☕ 👇 We can have coffee too 😄
 
 ## <img src="https://media1.giphy.com/media/U29iRRUrtx1wjD4GR4/giphy.gif?cid=ecf05e472yvv7uqxuu6ufigm31tr1pxus9h4mrfjo8180qzh&rid=giphy.gif&ct=s" width="70"> Where to reach me 🌍: [Linkedin](https://www.linkedin.com/in/pragya-sapkota-83a38a191/)
 
