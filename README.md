@@ -12,7 +12,7 @@
 - 😄 Nickname: Wight 🙈
 
 ## <img src="https://media1.giphy.com/media/U29iRRUrtx1wjD4GR4/giphy.gif?cid=ecf05e472yvv7uqxuu6ufigm31tr1pxus9h4mrfjo8180qzh&rid=giphy.gif&ct=s" width="70"> Where to reach me 🌍: 
-[Linkedin](https://www.linkedin.com/in/pragya-sapkota-83a38a191/) | [Gmail](mailto:Mail@pragyasapkota2056@gmail.com) | [Twitter](https://twitter.com/PragyaSapkota15) 
+### [Linkedin](https://www.linkedin.com/in/pragya-sapkota-83a38a191/) | [Gmail](mailto:Mail@pragyasapkota2056@gmail.com) | [Twitter](https://twitter.com/PragyaSapkota15) 
 
 ## Tech & Tools Preference
 
