@@ -39,8 +39,4 @@
 
 <br/>
 
-<div align="center">
-
-**Don't forget to check the Repositories and give a star.** 👇
-
-</div>           
+### Don't forget to check the Repositories and give a star🤝.       
