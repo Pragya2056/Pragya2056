@@ -40,10 +40,10 @@
 
 <br/>
 
-<a href="https://github.com/Pragya2056/github-readme-activity-graph"><img alt="Pragya Sapkota's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Pragya2056&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-
+<div align="center'>
+            
 Let's connect 👨‍💻 and forge the future together. 😁✌ 
 
 **Check the Repositories and don't forget to give a star.** 👇
+
+</div>           
