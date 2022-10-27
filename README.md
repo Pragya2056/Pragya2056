@@ -40,10 +40,8 @@
 
 <br/>
 
-<div align="center'>
-            
-Let's connect 👨‍💻 and forge the future together. 😁✌ 
+<div align="center">
 
-**Check the Repositories and don't forget to give a star.** 👇
+**Don't forget to check the Repositories and give a star.** 👇
 
 </div>           
