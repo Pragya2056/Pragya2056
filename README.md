@@ -11,7 +11,7 @@
 - 📝 Writings: I am also a professional technical content writer. ✍️ You can view some of my contents in my [Portfolio](https://github.com/Pragya2056/Portfolio) repository. And if you're interested in the official blog, I have one on Medium as [Pragya Sapkota](https://medium.com/@pragyasapkota). You can `CTRL+click` the link and look at my articles. 
 - 😄 Nickname: Wight 🙈
 
-## <img src="https://media1.giphy.com/media/U29iRRUrtx1wjD4GR4/giphy.gif?cid=ecf05e472yvv7uqxuu6ufigm31tr1pxus9h4mrfjo8180qzh&rid=giphy.gif&ct=s" width="70"> Where to reach me 🌍: 
+## <img src="https://media1.giphy.com/media/U29iRRUrtx1wjD4GR4/giphy.gif?cid=ecf05e472yvv7uqxuu6ufigm31tr1pxus9h4mrfjo8180qzh&rid=giphy.gif&ct=s" width="70"> Where to reach me: 
 <a href="https://www.linkedin.com/in/pragya-sapkota-83a38a191/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:pragyasapkota2056@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://twitter.com/PragyaSapkota15"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
