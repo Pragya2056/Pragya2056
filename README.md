@@ -8,7 +8,8 @@
 - 🌱 I’m currently learning Backend Development👨‍💻.
 - 🤔 I’m looking for help with my Back-End Designing🤙.
 - 💬 Ask me about anything, I am happy😁 to help👯.
-- 📝 Writings: I am also a professional technical content writer. ✍️ You can view some of my contents in my [Portfolio](https://github.com/Pragya2056/Portfolio) repository. And if you're interested in the official blog, I have one on <a><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a> as [Pragya Sapkota](https://medium.com/@pragyasapkota). You can `CTRL+click` the link and look at my articles. 
+- 📝 Writings: I am also a professional technical content writer. ✍️ You can view some of my contents in my [Portfolio](https://github.com/Pragya2056/Portfolio) repository. And if you're interested in the official blog, I have one on Medium as [Pragya Sapkota](https://medium.com/@pragyasapkota). 
+You can `CTRL+click` the link and browse through my articles. 
 - 😄 Nickname: Wight 🙈
 
 ## <img src="https://media1.giphy.com/media/U29iRRUrtx1wjD4GR4/giphy.gif?cid=ecf05e472yvv7uqxuu6ufigm31tr1pxus9h4mrfjo8180qzh&rid=giphy.gif&ct=s" width="70"> Where to reach me: 
