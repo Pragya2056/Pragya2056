@@ -1,7 +1,7 @@
 ## Hello There 👋
 ![Profile Visitors](https://visitor-badge.laobi.icu/badge?page_id=shreyash00007)
 
- Hi, I'm Pragya Sapkota 👨‍💻
+ Hi, I'm Pragya Sapkota👨‍💻
  
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Little things about me
 
