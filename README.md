@@ -3,9 +3,9 @@
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Under the hood
 
 - 🌱 I’m currently learning Backend Development👨‍💻.
-- 🤔 I’m looking for help with my Back-End Designing🤙.
+- 🤔 I’m looking for help - if someone wishes to guide me. 🤙.
 - 💬 Ask me about anything, I am happy😁 to help👯.
-- 📝 Writings: I am also a professional technical content writer. ✍️ You can view some of my contents in my [Portfolio](https://github.com/pragyaasapkota/Portfolio) repository. And if you're interested in the official blog, I have one on Medium as [Pragya Sapkota](https://medium.com/@pragyasapkota). 
+- 📝 Writings: I am also a professional technical content writer. ✍️ You can view some of my content in my [Portfolio](https://github.com/pragyaasapkota/Portfolio) repository. And if you're interested in the official blog, I have one on Medium as [Pragya Sapkota](https://medium.com/@pragyasapkota). 
 You can `CTRL+click` the link and browse through my articles. 
 - 😄 Nickname: Wight 🙈
 
